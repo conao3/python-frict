@@ -4,6 +4,12 @@ Clear the previous output and print a new one.
 
 ![](./.github/capture1.gif)
 
+# Install
+
+```bash
+pip install frict
+```
+
 # Usage
 
 This example shows spinner.
