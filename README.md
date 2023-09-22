@@ -2,7 +2,7 @@
 
 Clear the previous output and produce a new one.
 
-![](https://github.com/conao3/python-frict/assets/4703128/4a2566c0-0e22-460d-a75a-8891d155b71b)
+![capture](https://github.com/conao3/python-frict/assets/4703128/4a2566c0-0e22-460d-a75a-8891d155b71b)
 
 # Usage
 
