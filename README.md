@@ -1,8 +1,8 @@
 # python-frict
 
-Clear the previous output and produce a new one.
+Clear the previous output and print a new one.
 
-![capture](https://github.com/conao3/python-frict/assets/4703128/4a2566c0-0e22-460d-a75a-8891d155b71b)
+![](./.github/capture1.gif)
 
 # Usage
 
